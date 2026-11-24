@@ -26,7 +26,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "Are you my context window? Because the moment you walked in, everything else in my memory got evicted \u2014 except you.";
+  "Are you my context window? Because the moment you walked in, everything else in my memory got evicted — except you.";
 
 // Gate self-check, mirroring ONLY the sealed scorer: UTF-8 text of 1 to
 // 200 characters, not only white space.
